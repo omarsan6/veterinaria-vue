@@ -159,7 +159,7 @@
                         for="alta"
                         class="block text-gray-700 uppercase font-bold"
                     >
-                        Correo electrónico
+                        Fecha
                     </label>
 
                     <input 
